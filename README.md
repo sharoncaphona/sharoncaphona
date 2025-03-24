@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sharon Caphona Devanayagam
+### Hi👋 I'm Sharon Caphona Devanayagam
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ### About Me  
