@@ -27,4 +27,7 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 
 ### Profile Stats
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img src="https://streak-stats.demolab.com?user=sharoncaphona&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
