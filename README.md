@@ -5,6 +5,14 @@
 - ⭐ Currently working as a **Software Quality Assurance (Manual + Automation Testing) professional**.
 - 💀 Mostly working on **private repositories and test automation projects**.
 - 👾 A **learner** exploring new tools and frameworks in testing and development.
+
+### Testing Tools
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> <img src="https://img.shields.io/badge/Katalon Studio-00AEEF?style=for-the-badge&logo=katalon&logoColor=white" alt="katalon" /> 
+<img src="https://img.shields.io/badge/JMeter-007C75?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter" /> 
+<img src="https://img.shields.io/badge/TestRail-F15A24?style=for-the-badge&logo=testrail&logoColor=white" alt="testrail" /> 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /> 
+<img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
+
  
 ### Languages I know
 - <h4>Languages </h4>
