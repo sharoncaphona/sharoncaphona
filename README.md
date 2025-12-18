@@ -2,9 +2,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ### About Me  
-- ⭐ Currently working as a **Software Quality Assurance (Manual + Automation Testing) professional**.
-- 💀 Mostly working on **private repositories and test automation projects**.
-- 👾 A **learner** exploring new tools and frameworks in testing and development.
+- ⭐ Currently working as a **Software Quality Assurance (Manual + Automation Testing) Professional**.
+- 💀 Mostly working on **Private repositories and Test automation projects**.
+- 👾 A **Learner** exploring new tools and frameworks in testing and development.
 
 ### Testing Tools
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> <img src="https://img.shields.io/badge/Katalon Studio-00AEEF?style=for-the-badge&logo=katalon&logoColor=white" alt="katalon" /> 
