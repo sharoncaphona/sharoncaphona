@@ -2,9 +2,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ### About Me  
-- ⭐ Currently working on **web-development**.
-- 💀 Mostly working on **private repositories**.
-- 👾 A **student** working his way around things.
+- ⭐ Currently working as a **Software Quality Assurance (Manual + Automation Testing) professional**.
+- 💀 Mostly working on **private repositories and test automation projects**.
+- 👾 A **learner** exploring new tools and frameworks in testing and development.
  
 ### Languages I know
 - <h4>Languages </h4>
