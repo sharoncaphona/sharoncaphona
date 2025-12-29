@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ### About Me  
-- **⭐ Software Quality Assurance Engineer with experience in Manual and Automation testing.**
+- **⭐ Software Quality Assurance Engineer with experience in manual and automation testing.**
 - **🎓 BSc (Hons) in Industrial Information Technology undergraduate at Uva Wellassa University of Sri Lanka.**
 - **🔒 Mainly working on private repositories and test automation projects.**
 - **👾 Continuous learner exploring new testing tools, frameworks, and development practices.**
