@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /> 
 <img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
 
- 
 ### Languages I know
 - <h4>Languages </h4>
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
@@ -36,6 +35,25 @@
   
 - <h4>Designing Tools </h4>
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharoncaphona&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false" />
+</p>
+
+### 🤝 Connect With Me
+
+- 📧 Email: sharondeva197@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sharon-caphona-devanayagam/  
+- 🌐 Portfolio: https://sharoncaphona.github.io/Portfolio/  
+
+### 📫 Open to Opportunities
+
+Open for internships, collaborations, and QA-related roles.  
+Feel free to connect via email or LinkedIn.
+
+*Focused on quality, automation, and continuous improvement*
+
 
 <!--###Profile Stats <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
 <!-- <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
