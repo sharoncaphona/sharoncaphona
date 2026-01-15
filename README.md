@@ -49,7 +49,7 @@
 
 ### 📫 Open to Opportunities
 
-Open for internships, collaborations, and QA-related roles.  
+Open to full-time QA roles, collaborations, and automation testing opportunities. 
 Feel free to connect via email or LinkedIn.
 
 *Focused on quality, automation, and continuous improvement*
