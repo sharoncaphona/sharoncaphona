@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/JMeter-007C75?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter" /> 
 <img src="https://img.shields.io/badge/TestRail-F15A24?style=for-the-badge&logo=testrail&logoColor=white" alt="testrail" /> 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /> 
-<img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
+<!-- <img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" /> -->
+<!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="appium" /> -->
 
 ### Languages I know
 - <h4>Languages </h4>
@@ -22,10 +24,13 @@
   <img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "node js" />
-  
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> -->
+    
 - <h4>Currently Learning </h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="appium" />
     
 - <h4>Frameworks & Libraries </h4>
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
@@ -53,7 +58,6 @@ Open to full-time QA roles, collaborations, and automation testing opportunities
 Feel free to connect via email or LinkedIn.
 
 *Focused on quality, automation, and continuous improvement*
-
 
 <!--###Profile Stats <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
 <!-- <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
