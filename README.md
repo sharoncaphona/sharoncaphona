@@ -41,10 +41,10 @@
 - <h4>Designing Tools </h4>
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 
+<!-- <p align="center">
 ### 📈 GitHub Activity Graph
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharoncaphona&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false" />
-</p>
+</p> -->
 
 ### 🤝 Connect With Me
 
