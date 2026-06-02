@@ -57,7 +57,6 @@
 - QA Engineer roles (Manual & Automation)  
 - Test automation projects  
 - Freelance QA work  
-- Open-source collaboration  
 
 📍 Sri Lanka  
 
