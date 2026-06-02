@@ -52,12 +52,24 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/sharon-caphona-devanayagam/  
 - 🌐 Portfolio: https://sharoncaphona.github.io/Portfolio/  
 
-### 📫 Open to Opportunities
+### 💼 Open to Opportunities
 
-Open to full-time QA roles, collaborations, and automation testing opportunities. 
-Feel free to connect via email or LinkedIn.
+- QA Engineer roles (Manual & Automation)  
+- Test automation projects  
+- Freelance QA work  
+- Open-source collaboration  
+
+📍 Sri Lanka  
 
 *Focused on quality, automation, and continuous improvement*
+
+---
+
+> "Quality means doing it right when no one is looking." — Henry Ford  
+
+---
+
+
 
 <!--###Profile Stats <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
 <!-- <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
