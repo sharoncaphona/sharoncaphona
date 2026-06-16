@@ -1,75 +1,146 @@
-### Hi 👋 I'm Sharon Caphona Devanayagam  
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+### Hi👋, I'm Sharon Caphona Devanayagam
 
-### About Me  
-- **⭐ Software Quality Assurance Engineer with experience in manual and automation testing.**
-- **🎓 BSc (Hons) in Industrial Information Technology undergraduate at Uva Wellassa University of Sri Lanka.**
-- **🔒 Mainly working on private repositories and test automation projects.**
-- **👾 Continuous learner exploring new testing tools, frameworks, and development practices.**
+<div align="center">
+Quality Assurance Engineer | ISTQB CTFL Certified | Selenium · Playwright · Postman · JMeter
 
-### Testing Tools
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> <img src="https://img.shields.io/badge/Katalon Studio-00AEEF?style=for-the-badge&logo=katalon&logoColor=white" alt="katalon" /> 
-<img src="https://img.shields.io/badge/JMeter-007C75?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter" /> 
-<img src="https://img.shields.io/badge/TestRail-F15A24?style=for-the-badge&logo=testrail&logoColor=white" alt="testrail" /> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" /> 
-<!-- <img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" /> -->
-<!-- <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="appium" /> -->
+---
 
-### Languages I know
-- <h4>Languages </h4>
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt = "c" />
-  <img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt = "node js" />
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> -->
-    
-- <h4>Currently Learning </h4>
-  <img src="https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
-  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="appium" />
-    
-- <h4>Frameworks & Libraries </h4>
-  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  
-- <h4>Designing Tools </h4>
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+*Focused on **quality**, **automation**, and **continuous improvement***
 
-<!-- <p align="center">
-### 📈 GitHub Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharoncaphona&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false" />
-</p> -->
+</div>
 
-### 🤝 Connect With Me
+## About Me
 
-- 📧 Email: sharondeva197@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sharon-caphona-devanayagam/  
-- 🌐 Portfolio: https://sharoncaphona.github.io/Portfolio/  
+I'm a **Quality Assurance Engineer** based in Jaffna, Sri Lanka, with hands-on internship experience delivering end-to-end QA across manual testing, test automation, REST API testing, and performance testing in **Agile/Scrum** environments.
 
-### 💼 Open to Opportunities
+I hold the **ISTQB Certified Tester Foundation Level (CTFL)** credential and am passionate about building quality into every phase of the software development lifecycle — not just finding bugs, but preventing them.
 
-- QA Engineer roles (Manual & Automation)  
+- 🔭 Currently focused on **QA automation** and **shift-left testing** practices
+- 📚 Actively studying for the **ISTQB Agile Tester (AT)** add-on certification
+- 💡 I believe that quality is a team responsibility, not a phase
+- 📍 Based in **Jaffna, Sri Lanka** 
+
+---
+
+*Open to Quality Assurance Engineer and QA Automation Engineer roles — remote or on-site in Sri Lanka.*
+
+## Tech Stack
+
+### 🧪 Testing & Automation Frameworks
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### 🌐 API & Performance Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon%20Studio-24B44D?style=for-the-badge&logoColor=white)
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗂️ Test Management & Bug Tracking
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
+
+### ⚙️ CI/CD & Version Control
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+---
+
+<!-- ## Testing Knowledge
+
+### Testing Types
+
+| Category | Skills |
+|---|---|
+| **Functional** | Functional Testing, Smoke Testing, Sanity Testing, Regression Testing, End-to-End Testing |
+| **Non-Functional** | Performance Testing, Load Testing, Scalability Testing, Usability Testing |
+| **Other** | UI Testing, Cross-Browser Testing, Exploratory Testing, API Testing, Black-Box Testing |
+
+### Methodologies & Practices
+
+| Category | Skills |
+|---|---|
+| **Methodologies** | Agile, Scrum, STLC, SDLC, Shift-Left Testing, BDD |
+| **Test Design** | Test Planning, Test Strategy, Test Case Design, RTM |
+| **Defect Management** | Defect Reporting, Defect Lifecycle Management, Root Cause Analysis |
+| **API** | REST API Testing, Functional API Testing, Negative API Testing, API Automation |
+| **Performance** | Load Testing, Scalability Testing, Virtual User Simulation |
+
+### Documentation & Reporting
+
+| Artefact | Description |
+|---|---|
+| **Test Plans & Strategies** | Structured documentation covering scope, approach, resources, and schedule |
+| **Test Cases** | Detailed, requirement-mapped test cases aligned to RTM |
+| **Bug Reports** | Clear, reproducible defect reports logged in Jira |
+| **BDD Scenarios** | Gherkin-format feature files aligned to acceptance criteria |
+| **RTM** | Requirements Traceability Matrix mapping requirements to test coverage |
+| **Usability Reports** | Participant feedback analysis with prioritised improvement recommendations |
+
+--- -->
+
+## Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| 🏅 ISTQB Certified Tester Foundation Level (CTFL) | ISTQB | May 2026 |
+| 🏅 Postman API Fundamentals Student Expert | Postman | Jan 2026 |
+
+---
+
+## Connect With Me
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/sharon-caphona-devanayagam](https://linkedin.com/in/sharon-caphona-devanayagam) |
+| 📧 Email | [sharondeva197@gmail.com](mailto:sharondeva197@gmail.com) |
+| 🐙 Portfolio | [sharoncaphona.github.io/Portfolio/](https://sharoncaphona.github.io/Portfolio/) |
+
+
+## Open to Opportunities
+
+- Quality Assurance Engineer roles (Manual & Automation)  
 - Test automation projects  
 - Freelance QA work  
 
-📍 Sri Lanka  
-
-*Focused on quality, automation, and continuous improvement*
-
 ---
 
-> "Quality means doing it right when no one is looking." — Henry Ford  
+<div align="center">
 
----
+*"Quality is not an act, it is a habit." — Aristotle*
 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=sharoncaphona&color=brightgreen&style=flat-square) -->
 
+</div>
 
-<!--###Profile Stats <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
-<!-- <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
-<!-- <img src="https://streak-stats.demolab.com?user=sharoncaphona&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+<!-- ### Profile Stats 
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sharoncaphona&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncaphona&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img src="https://streak-stats.demolab.com?user=sharoncaphona&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+### GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharoncaphona&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false" />
+</p> -->
